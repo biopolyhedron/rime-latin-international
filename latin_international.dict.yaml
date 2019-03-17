@@ -16,7 +16,7 @@
 
 ---
 name: latin_international
-version: "poly2014.11.25"
+version: "2018.11.17"
 sort: original
 ...
 
@@ -103,6 +103,8 @@ y	y
 Y	Y
 z	z
 Z	Z
+ 	;nbsp
+ 	;nnbsp
 “	;"d
 ”	;"q
 „	;"Q
@@ -117,8 +119,10 @@ Z	Z
 ‚	;'Q
 ´	;''
 ˊ	;'q
+ˏ	;'Q
 ˆ	;^q
 ˋ	;`q
+ˎ	;`Q
 ­	;--
 ∓	;-+
 ⁺	;+q
@@ -234,6 +238,7 @@ cʰ	;ch
 ʻ	;'d
 Ḍ	;D>
 ḍ	;d>
+ȸ	;db
 ð	;dd
 dð	;ddd
 dðʱ	;dddh
@@ -245,6 +250,7 @@ dʱ	;dhh
 ȡʱ	;djh
 ɖ	;dr
 ɖʱ	;drh
+ᶑ	;drx
 Ď	;Dv
 ɗ	;dx
 dʑ	;dzj
@@ -327,7 +333,7 @@ dʐʱ	;dzrh
 ̺	;F[
 ̻	;F[]
 ̞	;Flow
-͆	;f]
+̚	;f]
 ̪	;F]
 ̂	;f^
 ̀	;f`
@@ -381,9 +387,12 @@ dʐʱ	;dzrh
 ɢ	;GG
 ɢʱ	;GGh
 ɣ	;ggh
+ɣʱ	;gghh
+ˠ	;gghq
 ʛ	;GGx
 gʱ	;gh
 ɲ	;gn
+ᶮ	;gnq
 ΅	;gr"'
 ·	;gr.
 ΄	;gr'
@@ -481,7 +490,7 @@ gʱ	;gh
 í	;i'
 Ī	;I-
 ī	;i-
-ɨ	;i-
+ɨ	;i--
 Ī́	;I-'
 ī́	;i-'
 Ỉ	;I?
@@ -509,9 +518,11 @@ gʱ	;gh
 Ĵ	;J^
 ĵ	;j^
 ʝ	;jj
+ʝʱ	;jjh
 ʲ	;jq
 Ḳ	;K>
 ḳ	;k>
+k̚	;k]
 Ķ	;K,
 ķ	;k,
 ʞ	;kd
@@ -531,7 +542,7 @@ kʰ	;kh
 ḷ	;l>
 Ḹ	;L>-
 ḹ	;l>-
-ʎ	;ld
+‭	;ltr
 ♌	;leo
 ♎	;libra
 ʟ	;LL
@@ -578,6 +589,7 @@ kʰ	;kh
 ᶰ	;NNq
 ⁿ	;nq
 ɳ	;nr
+ᶯ	;nrq
 Ň	;Nv
 ň	;nv
 Ö	;O"
@@ -796,6 +808,7 @@ Oγ	;Og
 ˥˥˨	;p552
 ˥˥˧	;p553
 ˥˥˦	;p554
+p̚	;p]
 ¶	;para
 pʰ	;ph
 ♓	;pisces
@@ -804,7 +817,9 @@ pʰ	;ph
 ″	;prime2
 ‴	;prime3
 qʰ	;qh
+q̚	;q]
 ⁻	;-q
+ˍ	;-Q
 ¨	;"q
 ⁽	;(q
 ₍	;(Q
@@ -814,9 +829,11 @@ qʰ	;qh
 ˌ	;,
 ¸	;,,
 ·	;..
+˙	;.q
 ÷	;//
 ʔ	;?
 ʡ	;?-
+ʔ̚	;?]
 ¿	;??
 ʖ	;?d
 ʕ	;?f
@@ -859,6 +876,7 @@ qʰ	;qh
 ₈	;8Q
 ⁹	;9q
 ₉	;9Q
+ȹ	;qp
 Á	;A'
 á	;a'
 Ā	;A-
@@ -881,6 +899,7 @@ Qα	;Qa
 ɻ	;rdr
 ʵ	;rdrq
 ※	;ref
+‮	;rtl
 ɼ	;rl
 ʳ	;rq
 ɾ	;rr
@@ -903,6 +922,7 @@ Qα	;Qa
 ♐	;sagittarius
 ♏	;scorpio
 ″	;sec
+sʰ	;sh
 ♯	;sharp
 ɕ	;sj
 ſ	;sl
@@ -922,6 +942,7 @@ Qα	;Qa
 ŧ	;t-
 Ṭ	;T>
 ṭ	;t>
+t̚	;t]
 ☯	;taiji
 ♉	;taurus
 ʇ	;td
@@ -1003,9 +1024,12 @@ tθʰ	;ttth
 Ǔ	;Uv
 ǔ	;uv
 ʌ	;vd
+vʱ	;vh
 ♍	;virgo
 ˇ	;vq
+ˬ	;vQ
 ʋ	;vu
+ⱱ	;vr
 Ẃ	;W'
 ẃ	;w'
 Ŵ	;W^
@@ -1035,6 +1059,7 @@ tθʰ	;ttth
 ¥	;Y=
 Ỵ	;Y>
 ỵ	;y>
+ʎ	;yd
 ¥	;yen
 ʸ	;yq
 ʏ	;YY
@@ -1048,6 +1073,7 @@ tθʰ	;ttth
 ẑ	;z^
 Ẓ	;Z>
 ẓ	;z>
+zʱ	;zh
 ʑ	;zj
 ᶽ	;zjq
 ♑	;zod1
@@ -1063,9 +1089,11 @@ tθʰ	;ttth
 ♌	;zod8
 ♍	;zod9
 ʐ	;zr
+ʐʱ	;zrh
 Ž	;Zv
 ž	;zv
 ʒ	;zz
+ʒʱ	;zzh
 ʓ	;zzj
 
 #others
