@@ -4,11 +4,10 @@
 schema:
   schema_id: latin_international
   name: "拉丁字母混合輸入"
-  version: "poly2014.04.17自動上屏"
+  version: "2020.05.08"
   author:
     - polyhedron<biopolyhedron@gmail.com>
   description: |
-    版本：poly2014.04.17自動上屏
     輸入拉丁字母國際集。支持西歐、土耳其、越南、梵文和阿拉伯文轉寫、大部分國際音標
     特殊字符均用';'爲前加符；上標後加q，下標後加Q；組合上加符f，組合下加符F
     
@@ -52,7 +51,7 @@ speller:
 translator:
   dictionary: latin_international
   enable_user_dict: false
-  enable_sentence: true
+  enable_sentence: false
   comment_format:
     - xform/^~(.*)$/$1/
 
