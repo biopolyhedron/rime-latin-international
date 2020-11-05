@@ -16,7 +16,7 @@
 
 ---
 name: latin_international
-version: "2018.11.17"
+version: "2020.11.05"
 sort: original
 ...
 
@@ -369,6 +369,7 @@ dʐʱ	;dzrh
 ̥	;Fo
 ̠	;Fp
 ̢	;Fr
+˞	;fr
 ᷂	;Fs
 ̆	;fu
 ̬	;Fv
@@ -543,6 +544,7 @@ kʰ	;kh
 ḷ	;l>
 Ḹ	;L>-
 ḹ	;l>-
+ȴ	;lj
 ‭	;ltr
 ♌	;leo
 ♎	;libra
@@ -902,6 +904,7 @@ Qα	;Qa
 ※	;ref
 ‮	;rtl
 ɼ	;rl
+√	;root
 ʳ	;rq
 ɾ	;rr
 ʀ	;RR
@@ -1099,7 +1102,5 @@ zʱ	;zh
 
 #others
 ː	;:
-:
-ˑ	;::
-:	:
-#how?
+:ˑ	;::
+:	:#how?
